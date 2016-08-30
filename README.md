@@ -6,6 +6,8 @@ Getting started
 
 Download [Docker for Mac or Windows](https://www.docker.com).
 
+![Open in VS Code](openInVSCode.png)
+
 Run in this directory:
 
     $ docker-compose up
