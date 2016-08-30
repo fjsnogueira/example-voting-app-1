@@ -6,7 +6,7 @@ Getting started
 
 Download [Docker for Mac or Windows](https://www.docker.com).
 
-![Open in VS Code](openInVSCode.png)
+![Open in VS Code](https://cloud.githubusercontent.com/assets/1487073/18072108/6988f606-6e10-11e6-87aa-968d3d1f19dd.png)
 
 Run in this directory:
 
