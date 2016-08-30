@@ -8,9 +8,11 @@ Download [Docker for Mac or Windows](https://www.docker.com).
 
 ![open in vs code](https://cloud.githubusercontent.com/assets/1487073/18072204/1a42e498-6e11-11e6-889f-3710890c6ac2.png)
 
-Run in this directory:
+Run this command:
 
+``` bash
     $ docker-compose up
+```
 
 The app will be running at [http://localhost:5000](http://localhost:5000), and the results will be at [http://localhost:5001](http://localhost:5001).
 
