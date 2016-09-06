@@ -8,6 +8,11 @@ Download [Docker for Mac or Windows](https://www.docker.com).
 
 ![open in vs code](https://cloud.githubusercontent.com/assets/1487073/18072204/1a42e498-6e11-11e6-889f-3710890c6ac2.png)
 
+``` bash
+git clone ...
+npm install
+```
+
 Run this command:
 
 ``` bash
