@@ -8,6 +8,8 @@ Download [Docker for Mac or Windows](https://www.docker.com).
 
 ![open in vs code](https://cloud.githubusercontent.com/assets/1487073/18072204/1a42e498-6e11-11e6-889f-3710890c6ac2.png)
 
+![open in vs code](gitedit:https%3A%2F%2Fgithub.com%2FMicrosoft%2Fopen-from-github.git)
+
 ``` bash
 git clone ...
 npm install
